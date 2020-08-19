@@ -56,7 +56,7 @@ while True:
 
 
 #Create a coefficient matrix to controll the magintude of the audio samples
-#The songs starts from left moving to right in the beginning, and moving back to the right in the end
+#The sounds start from left moving to right in the beginning, and moving back to the right in the end
 for i in range(total_sample):
     if i <= time_offset:
         left_coe[i] = 1-i*ratio*factor
