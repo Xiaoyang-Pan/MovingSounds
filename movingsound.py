@@ -1,13 +1,13 @@
-###########################################################
-#                                                         #
-#           Playing moving Sound in headphones            #
-#                                                         #
-#   1.Imported a wave audio file                          #
-#   2.Controlled the magnitude of input audio signals     #
-#   3.Added a time dealy to the input audio signals       #
-#   4.Outputted a wave file with moving sound effects     #
-#                                                         #
-###########################################################
+########################################################################
+#                                                                      #
+#                  Playing moving Sound in headphones                  #
+#                                                                      #
+#       1.Imported a wave audio file                                   #
+#       2.Controlled the magnitude of input audio signals              #
+#       3.Added a time dealy to the input audio signals                #
+#       4.Outputted and Played a wave file with moving sound effects   #
+#                                                                      #
+########################################################################
 
 import soundfile as sf
 import numpy as np
